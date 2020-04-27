@@ -1,6 +1,8 @@
 export class employee
 {
-  public id : number;
+  public code : string;
   public name: string;
-  public DOB : Date; 
+  public gender: string;
+  public salary: number;
+  public dateOfBirth; string;
 }
